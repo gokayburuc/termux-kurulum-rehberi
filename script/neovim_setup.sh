@@ -1,0 +1,2 @@
+
+# TODO: neovim first setup 
